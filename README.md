@@ -5,7 +5,7 @@
 
 <!-- BANNER CON GIF DE TENOR (REPRODUCCIÓN AUTOMÁTICA) -->
 <p align="center">
-  <img src="https://media.tenor.com/17549175953135271348/tenor.gif" alt="Good Morning GIF" width="100%" />
+  <img src="https://c.tenor.com/84syjMN0fbQAAAAC/tenor.gif" alt="Good Morning GIF" width="100%" />
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
