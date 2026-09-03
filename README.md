@@ -3,10 +3,10 @@
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON VIDEO MP4 DE CATBOX (REPRODUCCIÓN CON CONTROLES) -->
+<!-- BANNER CON VIDEO MP4 DE CLOUDINARY (REPRODUCCIÓN CON CONTROLES) -->
 <p align="center">
   <video width="100%" controls>
-    <source src="https://files.catbox.moe/a4nw32.mp4" type="video/mp4">
+    <source src="https://res.cloudinary.com/dbcqcai1q/video/upload/v1775355894/ltncy7lflttovkez16cm.mp4" type="video/mp4">
     Tu navegador no soporta la reproducción de videos.
   </video>
   <br>
