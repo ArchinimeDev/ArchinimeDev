@@ -3,14 +3,9 @@
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON VIDEO MP4 DE CLOUDINARY (REPRODUCCIÓN CON CONTROLES) -->
+<!-- BANNER CON GIF DE TENOR (REPRODUCCIÓN AUTOMÁTICA) -->
 <p align="center">
-  <video width="100%" controls>
-    <source src="https://res.cloudinary.com/dbcqcai1q/video/upload/v1775355894/ltncy7lflttovkez16cm.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de videos.
-  </video>
-  <br>
-  <i>🎬 Haz clic en ▶️ para ver el banner animado</i>
+  <img src="https://media.tenor.com/17549175953135271348/tenor.gif" alt="Good Morning GIF" width="100%" />
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
