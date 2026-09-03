@@ -1,14 +1,14 @@
 <!-- ============================================================ -->
 <!--  🚀 ARCHINIME - README CYBERPUNK ULTRA EDITION                -->
-<!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
+<!--  Inspirado en el estilo de DevZyxlJs y el universo cyberpunk  -->
 <!-- ============================================================ -->
 
-<!-- ========== BANNER PRINCIPAL CON GIF ANIMADO ========== -->
+<!-- ========== BANNER CON GIF ANIMADO ========== -->
 <p align="center">
-  <img src="https://c.tenor.com/84syjMN0fbQAAAAC/tenor.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Banner" width="100%" />
 </p>
 
-<!-- ========== EFECTO DE ESCRITURA ========== -->
+<!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Diseñador;Apasionado+del+Anime" alt="Typing SVG" />
 </p>
@@ -38,8 +38,17 @@
 
 ---
 
+<!-- ========== ESTADÍSTICAS DE ARCHINIME ========== -->
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Archinime&cc=05070A&tc=00F0FF&ic=b114ff&bc=0D1117" width="450" />
+  <br>
+  <i>⭐ Estadísticas de Archinime en GitHub</i>
+</div>
+
+---
+
 <!-- ========== SOBRE EL PROYECTO ========== -->
-## 🌌 Sobre el Proyecto
+## 🌌 Sobre Archinime
 
 <table>
 <tr>
@@ -68,37 +77,36 @@
 
 ---
 
-<!-- ========== HABITACIÓN 3D ========== -->
-## 🏠 Habitación 3D Interactiva (Lunari OS)
+<!-- ========== PROYECTOS DESTACADOS ========== -->
+## 🚀 Proyectos Destacados
 
-<table>
-<tr>
-<td align="center">
-
-<a href="https://archinime.github.io/-Archinime-/room.html">
-  <img src="https://img.shields.io/badge/🌐%20EXPLORAR-HABITACIÓN%203D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
-</a>
-
-> **¡Descubre la habitación de Lunari!**  
-> Un entorno 3D inmersivo con controles de TV, PC, clima en tiempo real y un sistema de inventario completo. Haz clic en el botón para explorarla.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========== PROYECTO DESTACADO ========== -->
-## 🚀 Proyecto Destacado: ARCHINIME
-
-<p align="center">
+<div align="center">
   <a href="https://archinime.github.io/-Archinime-/">
-    <img src="https://img.shields.io/badge/🌐%20VISITAR-ARCHINIME-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20ARCHINIME-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-</p>
+  <a href="https://archinime.github.io/-Archinime-/room.html">
+    <img src="https://img.shields.io/badge/🏠%20HABITACIÓN%203D-b114ff?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/Archinime/-Archinime-">
+    <img src="https://img.shields.io/badge/📦%20REPOSITORIO-ff1a6b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 > **La nueva era del anime.**  
 > Plataforma con diseño cyberpunk, reproductor de vídeo, chat comunitario, sistema de votaciones y un catálogo masivo.
+
+---
+
+## 🏠 Habitación 3D Interactiva (Lunari OS)
+
+<p align="center">
+  <a href="https://archinime.github.io/-Archinime-/room.html">
+    <img src="https://img.shields.io/badge/🌐%20EXPLORAR-HABITACIÓN%203D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</p>
+
+> **¡Descubre la habitación de Lunari!**  
+> Un entorno 3D inmersivo con controles de TV, PC, clima en tiempo real y un sistema de inventario completo. Haz clic en el botón para explorarla.
 
 ---
 
@@ -111,6 +119,23 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 - 🌱 Aprendiendo: Nuevas tecnologías para mejorar la experiencia de usuario (WebAssembly, WebGL, etc.).
 - 💬 Pregúntame sobre: Firebase, JavaScript, HTML/CSS, o cualquier cosa relacionada con anime.
 - ⚡ Dato curioso: Mi web tiene efectos visuales de neón y un sistema completo de autenticación.
+
+---
+
+<!-- ========== STACK TECNOLÓGICO ========== -->
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
 
 ---
 
