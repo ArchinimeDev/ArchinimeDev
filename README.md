@@ -1,16 +1,26 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION                      -->
+<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con FONDO ANIMADO    -->
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
+  <!-- BANNER ANIMADO (GIF DE FONDO) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_dark.gif">
+    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_light.gif" alt="Archinime Banner" width="100%" />
+  </picture>
+</p>
+
+<!-- TEXTO CON EFECTO DE ESCRITURA SOBRE EL BANNER (simulado con SVG) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
 </p>
 
 <p align="center">
@@ -44,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/-Archinime-@main/screenshots/banner_demo.gif" alt="Demo de Archinime" width="80%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/demo_archinime.gif" alt="Demo de Archinime" width="80%" />
 </p>
 
 > **La nueva era del anime.**  
