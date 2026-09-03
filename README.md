@@ -1,21 +1,32 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con FONDO ANIMADO    -->
+<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con MUSICA Y BANNER  -->
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
+<!-- ===== BANNER CON GIF DE FONDO ===== -->
 <p align="center">
-  <!-- BANNER ANIMADO (GIF DE FONDO) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_dark.gif">
     <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_light.gif" alt="Archinime Banner" width="100%" />
   </picture>
 </p>
 
-<!-- TEXTO CON EFECTO DE ESCRITURA SOBRE EL BANNER (simulado con SVG) -->
+<!-- ===== TEXTO CON EFECTO DE ESCRITURA (SOBRE EL BANNER) ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
+<!-- ===== REPRODUCTOR DE MÚSICA (Música de fondo) ===== -->
+<p align="center">
+  <audio controls autoplay loop style="width: 300px; background: #0D1117; border-radius: 20px; border: 1px solid #00F0FF;">
+    <source src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/nightcore_mix.mp3" type="audio/mpeg">
+    Tu navegador no soporta audio HTML5.
+  </audio>
+  <br>
+  <span style="color: #8a90a0; font-size: 0.8rem;">🎵 Nightcore Mix · Dale play para ambientarte</span>
+</p>
+
+<!-- ===== INSIGNIAS DE ESTADO ===== -->
 <p align="center">
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
