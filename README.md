@@ -3,9 +3,14 @@
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON GIF (REPRODUCCIÓN AUTOMÁTICA) -->
+<!-- BANNER CON VIDEO (REPRODUCCIÓN MANUAL) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/naruto.gif" alt="Archinime Banner" width="100%" />
+  <video width="100%" controls poster="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze_poster.jpg">
+    <source src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
+  <br>
+  <i>🎬 Haz clic en ▶️ para ver el banner animado</i>
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
