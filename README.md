@@ -102,6 +102,16 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 
 ---
 
+## 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+---
+
 ## 📫 ¿Dónde encontrarme?
 
 <p align="center">
@@ -112,6 +122,11 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 </p>
 
 ---
+
+<!-- FOOTER SVG -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
