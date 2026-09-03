@@ -3,9 +3,14 @@
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON GIF DE LA HABITACIÓN 3D (REPRODUCCIÓN AUTOMÁTICA) -->
+<!-- BANNER CON VIDEO MP4 DE CATBOX (REPRODUCCIÓN CON CONTROLES) -->
 <p align="center">
-  <img src="https://moccasin-random-bee-624.mypinata.cloud/ipfs/bafybeicf2geidkgdllm7o3sc6mivsifyl5mgqdphnr6ap3jqvc3mnarzrq" alt="Habitación 3D de Lunari" width="100%" />
+  <video width="100%" controls>
+    <source src="https://files.catbox.moe/a4nw32.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
+  <br>
+  <i>🎬 Haz clic en ▶️ para ver el banner animado</i>
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
