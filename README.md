@@ -1,37 +1,52 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION                      -->
-<!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
+<!--  🚀 ARCHINIME - README CYBERPUNK ULTIMATE EDITION             -->
+<!--  ⚡ La experiencia definitiva de perfil en GitHub              -->
+<!--  Basado en archinime.github.io/-Archinime-                    -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON GIF DE TENOR (REPRODUCCIÓN AUTOMÁTICA) -->
+<!-- ===== BANNER CON GIF DE TENOR (FONDO ANIMADO) ===== -->
 <p align="center">
-  <img src="https://c.tenor.com/84syjMN0fbQAAAAC/tenor.gif" alt="Good Morning GIF" width="100%" />
+  <img src="https://c.tenor.com/84syjMN0fbQAAAAC/tenor.gif" alt="Archinime Banner" width="100%" />
 </p>
 
-<!-- TEXTO CON EFECTO DE ESCRITURA -->
+<!-- ===== EFECTO DE ESCRITURA (TÍTULO PRINCIPAL) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;LA+NUEVA+ERA+DEL+ANIME;SISTEMA+CYBERPUNK;FULL+STACK+DEVELOPER;BIENVENIDO+A+MI+MUNDO" alt="Typing SVG" />
 </p>
 
-<!-- BADGES DE ESTADO -->
+<!-- ===== BADGES DE ESTADO (CON EFECTO NEÓN) ===== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦%20VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📜%20LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/📱%20PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻%20PLATAFORMA-Web_%26_Mobile-ffd700?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨%20DISEÑO-Cyberpunk-ff0055?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
-<!-- MÚSICA DE FONDO (Enlace) -->
+<!-- ===== BADGE DE MÚSICA (CON ENLACE) ===== -->
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA%20DE%20FONDO-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎵%20MÚSICA%20DE%20FONDO-ESCUCHAR_AHORA-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <br>
-  <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
+  <i>▶️ Haz clic en el badge para escuchar la banda sonora</i>
+</p>
+
+<!-- ===== FRASE MOTIVACIONAL ===== -->
+<p align="center">
+  <i>“Da el primer paso: No esperes a que todo sea perfecto para actuar.”</i>
 </p>
 
 <p align="center">
-  <i>“Da el primer paso: No esperes a que todo sea perfecto para actuar.”</i>
+  <i>⚡ “El futuro es neón, el código es poesía.”</i>
+</p>
+
+---
+
+<!-- ===== SEPARADOR ANIMADO ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" />
 </p>
 
 ---
@@ -135,15 +150,23 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <a href="https://discord.gg/archinime"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<!-- FOOTER SVG -->
+---
+
+<!-- ===== FOOTER SVG ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" width="100%" />
 </p>
 
+<!-- ===== CONTADOR DE VISITAS ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </p>
 
+<!-- ===== FRASE FINAL ===== -->
 <p align="center">
   <i>⚡ "El futuro es neón, el código es poesía."</i>
+</p>
+
+<p align="center">
+  <i>🌟 Gracias por visitar mi perfil. ¡Que tengas un buen día!</i>
 </p>
