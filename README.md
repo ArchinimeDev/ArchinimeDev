@@ -1,33 +1,33 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con VIDEO Y MÚSICA   -->
+<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con BANNER Y MÚSICA  -->
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <!-- BANNER CON VIDEO (USANDO GIF O IMAGEN DE FONDO) -->
-  <!-- PARA USAR EL VIDEO MP4 COMO BANNER, CONVIÉRTELO A GIF Y SUSTITUYE LA URL -->
-  <a href="https://archinime.github.io/-Archinime-/">
-    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.gif" alt="Archinime Banner" width="100%" />
+  <!-- BANNER CON IMAGEN ESTÁTICA (puedes reemplazar por un GIF animado) -->
+  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze-poster.jpg" alt="ARCHINIME Banner" width="100%" />
   </a>
-  <!-- SI NO TIENES EL GIF, USA ESTA IMAGEN DE FONDO ESTÁTICA:
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4#.gif" alt="Archinime Banner" width="100%" />
-  -->
+  <br>
+  <em>🎬 Haz clic en la imagen para ver el video promocional</em>
 </p>
 
-<!-- TEXTO CON EFECTO DE ESCRITURA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<!-- BADGES DE ESTADO Y MÚSICA -->
+<p align="center">
+  <!-- BADGE DE MÚSICA (reproduce el enlace en nueva pestaña) -->
+  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR%20MÚSICA-ff1a6b?style=for-the-badge&logo=musicbrainz&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
-  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3">
-    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
