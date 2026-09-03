@@ -1,37 +1,33 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con MUSICA Y BANNER  -->
+<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con VIDEO Y MÚSICA   -->
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- ===== BANNER CON GIF DE FONDO ===== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_dark.gif">
-    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/cyberpunk_banner_light.gif" alt="Archinime Banner" width="100%" />
-  </picture>
+  <!-- BANNER CON VIDEO (USANDO GIF O IMAGEN DE FONDO) -->
+  <!-- PARA USAR EL VIDEO MP4 COMO BANNER, CONVIÉRTELO A GIF Y SUSTITUYE LA URL -->
+  <a href="https://archinime.github.io/-Archinime-/">
+    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.gif" alt="Archinime Banner" width="100%" />
+  </a>
+  <!-- SI NO TIENES EL GIF, USA ESTA IMAGEN DE FONDO ESTÁTICA:
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4#.gif" alt="Archinime Banner" width="100%" />
+  -->
 </p>
 
-<!-- ===== TEXTO CON EFECTO DE ESCRITURA (SOBRE EL BANNER) ===== -->
+<!-- TEXTO CON EFECTO DE ESCRITURA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<!-- ===== REPRODUCTOR DE MÚSICA (Música de fondo) ===== -->
-<p align="center">
-  <audio controls autoplay loop style="width: 300px; background: #0D1117; border-radius: 20px; border: 1px solid #00F0FF;">
-    <source src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/nightcore_mix.mp3" type="audio/mpeg">
-    Tu navegador no soporta audio HTML5.
-  </audio>
-  <br>
-  <span style="color: #8a90a0; font-size: 0.8rem;">🎵 Nightcore Mix · Dale play para ambientarte</span>
-</p>
-
-<!-- ===== INSIGNIAS DE ESTADO ===== -->
+<!-- BADGES DE ESTADO Y MÚSICA -->
 <p align="center">
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
+  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3">
+    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
