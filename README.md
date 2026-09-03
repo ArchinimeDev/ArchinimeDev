@@ -3,9 +3,9 @@
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
-<!-- BANNER CON GIF (REPRODUCCIÓN AUTOMÁTICA) -->
+<!-- BANNER CON GIF DE LA HABITACIÓN 3D (REPRODUCCIÓN AUTOMÁTICA) -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/naruto.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://ww1.hubu.cloud/file/d21a055b6d4d7c7afc495e8efd56a6be/gg.gif" alt="Habitación 3D de Lunari" width="100%" />
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
@@ -52,6 +52,19 @@
 
 ---
 
+## 🏠 Habitación 3D Interactiva (Lunari OS)
+
+<p align="center">
+  <a href="https://archinime.github.io/-Archinime-/room.html">
+    <img src="https://img.shields.io/badge/🌐%20EXPLORAR-HABITACIÓN%203D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</p>
+
+> **¡Descubre la habitación de Lunari!**  
+> Un entorno 3D inmersivo con controles de TV, PC, clima en tiempo real y un sistema de inventario completo. Haz clic en el botón para explorarla.
+
+---
+
 ## 🚀 Proyecto Destacado: ARCHINIME
 
 <p align="center">
@@ -87,6 +100,7 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
 ---
@@ -120,8 +134,6 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <a href="https://twitter.com/Archinime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://discord.gg/archinime"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
-
----
 
 <!-- FOOTER SVG -->
 <p align="center">
