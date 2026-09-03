@@ -5,7 +5,7 @@
 
 <!-- BANNER CON GIF DE LA HABITACIÓN 3D (REPRODUCCIÓN AUTOMÁTICA) -->
 <p align="center">
-  <img src="https://ww1.hubu.cloud/file/d21a055b6d4d7c7afc495e8efd56a6be/gg.gif" alt="Habitación 3D de Lunari" width="100%" />
+  <img src="https://moccasin-random-bee-624.mypinata.cloud/ipfs/bafybeicf2geidkgdllm7o3sc6mivsifyl5mgqdphnr6ap3jqvc3mnarzrq" alt="Habitación 3D de Lunari" width="100%" />
 </p>
 
 <!-- TEXTO CON EFECTO DE ESCRITURA -->
