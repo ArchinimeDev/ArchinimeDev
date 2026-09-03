@@ -1,33 +1,38 @@
 <!-- ============================================================ -->
-<!--  🚀 ARCHINIME - README CYBERPUNK EDITION con BANNER Y MÚSICA  -->
+<!--  🚀 ARCHINIME - README CYBERPUNK EDITION                      -->
 <!--  Basado en el estilo visual de archinime.github.io/-Archinime- -->
 <!-- ============================================================ -->
 
+<!-- BANNER CON VIDEO (REPRODUCCIÓN MANUAL) -->
 <p align="center">
-  <!-- BANNER CON IMAGEN ESTÁTICA (puedes reemplazar por un GIF animado) -->
-  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze-poster.jpg" alt="ARCHINIME Banner" width="100%" />
-  </a>
+  <video width="100%" controls poster="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze_poster.jpg">
+    <source src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/reze.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de videos.
+  </video>
   <br>
-  <em>🎬 Haz clic en la imagen para ver el video promocional</em>
+  <i>🎬 Haz clic en ▶️ para ver el banner animado</i>
 </p>
 
+<!-- TEXTO CON EFECTO DE ESCRITURA -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- BADGE DE MÚSICA (reproduce el enlace en nueva pestaña) -->
-  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR%20MÚSICA-ff1a6b?style=for-the-badge&logo=musicbrainz&logoColor=white" />
-  </a>
-</p>
-
+<!-- BADGES DE ESTADO -->
 <p align="center">
   <img src="https://img.shields.io/badge/ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
+</p>
+
+<!-- MÚSICA DE FONDO (Enlace) -->
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA%20DE%20FONDO-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <br>
+  <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
 </p>
 
 <p align="center">
@@ -58,10 +63,6 @@
   <a href="https://archinime.github.io/-Archinime-/">
     <img src="https://img.shields.io/badge/🌐%20VISITAR-ARCHINIME-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/demo_archinime.gif" alt="Demo de Archinime" width="80%" />
 </p>
 
 > **La nueva era del anime.**  
