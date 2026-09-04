@@ -185,7 +185,7 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </p>
 
-<!-- ========== GIF FINAL (Reemplaza la frase de cierre) ========== -->
+<!-- ========== GIF FINAL PEQUEÑO ========== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Footer GIF" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Footer" width="200" />
 </p>
