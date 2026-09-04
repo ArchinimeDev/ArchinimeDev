@@ -5,7 +5,7 @@
 
 <!-- ========== BANNER CON GIF ANIMADO ========== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Banner" width="100%" />
 </p>
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
