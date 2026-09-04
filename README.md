@@ -5,7 +5,7 @@
 
 <!-- ========== BANNER CON GIF ANIMADO ========== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Banner" width="100%" />
 </p>
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
@@ -130,15 +130,30 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 
 ---
 
-<!-- ========== ESTADÍSTICAS DE GITHUB (CON FORZADO DE CACHÉ) ========== -->
+<!-- ========== ESTADÍSTICAS DE GITHUB ========== -->
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff&v=3" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&v=3" alt="Lenguajes" width="42%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&v=3" alt="Racha" width="48%" />
-</div>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff" alt="Estadísticas" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" alt="Lenguajes" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" />
+
+</td>
+</tr>
+</table>
 
 ---
 
