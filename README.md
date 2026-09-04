@@ -10,7 +10,7 @@
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Diseñador;Apasionado+del+Anime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Diseñador;Apasionado+del+Anime" alt="Typing SVG" />
 </p>
 
 <!-- ========== BADGES DE ESTADO ========== -->
@@ -33,7 +33,7 @@
 
 <!-- ========== FRASE MOTIVACIONAL ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%80%9CDa+el+primer+paso%3A+No+esperes+a+que+todo+sea+perfecto+para+actuar.%E2%80%9D" alt="Frase motivacional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%80%9CDa+el+primer+paso%3A+No+esperes+a+que+todo+sea+perfecto+para+actuar.%E2%80%9D" alt="Frase motivacional" />
 </p>
 
 ---
@@ -133,27 +133,12 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 <!-- ========== ESTADÍSTICAS DE GITHUB ========== -->
 ## 📊 Estadísticas de GitHub
 
-<table align="center">
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff" alt="Estadísticas" />
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" alt="Lenguajes" />
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff&v=1" alt="Estadísticas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&v=1" alt="Lenguajes" width="42%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&v=1" alt="Racha" width="48%" />
+</div>
 
 ---
 
@@ -192,5 +177,5 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=400&lines=⚡+El+futuro+es+neón,+el+código+es+poesía." alt="Frase final" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=400&lines=⚡+El+futuro+es+neón,+el+código+es+poesía." alt="Frase final" />
 </p>
