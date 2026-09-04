@@ -135,16 +135,16 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 
 <table align="center">
 <tr>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" />
+<td align="center" width="50%">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" style="max-width: 500px;" />
 </td>
-<td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" />
+<td align="center" width="50%">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" style="max-width: 500px;" />
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="100%" style="max-width: 800px;" />
 </td>
 </tr>
 </table>
