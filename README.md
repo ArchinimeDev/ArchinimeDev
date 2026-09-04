@@ -185,6 +185,7 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
 </p>
 
+<!-- ========== GIF FINAL (Reemplaza la frase de cierre) ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=400&lines=⚡+El+futuro+es+neón,+el+código+es+poesía." alt="Frase final" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Footer GIF" width="100%" />
 </p>
