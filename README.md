@@ -3,9 +3,10 @@
 <!--  Inspirado en el estilo de DevZyxlJs y el universo cyberpunk  -->
 <!-- ============================================================ -->
 
-<!-- ========== BANNER CON GIF COMBINADO ========== -->
+<!-- ========== BANNER CON DOS GIFS LADO A LADO ========== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/banner_combinado.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Banner 1" width="49%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Banner 2" width="49%" />
 </p>
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
