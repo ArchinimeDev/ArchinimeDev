@@ -3,10 +3,47 @@
 <!--  Inspirado en el estilo de DevZyxlJs y el universo cyberpunk  -->
 <!-- ============================================================ -->
 
-<!-- ========== BANNER CON GIF ANIMADO ========== -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Banner" width="100%" />
-</p>
+<style>
+  /* ===== CARRUSEL DE GIFS CON TRANSICIÓN ===== */
+  .banner-container {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    aspect-ratio: 16 / 6; /* Ajusta según la relación de tus GIFs */
+    background: #05070a; /* Fondo mientras carga */
+  }
+  .banner-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    animation: fadeGifs 12s infinite;
+  }
+  .banner-container img:first-child {
+    animation-delay: 0s;
+  }
+  .banner-container img:last-child {
+    animation-delay: 6s;
+  }
+  @keyframes fadeGifs {
+    0% { opacity: 0; }
+    10% { opacity: 1; }
+    40% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+</style>
+
+<!-- ========== BANNER CON CARRUSEL DE GIFS ========== -->
+<div class="banner-container">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Banner 1">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Banner 2"><!-- ⚠️ REEMPLAZA esta URL por tu segundo GIF -->
+</div>
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
 <p align="center">
