@@ -10,7 +10,7 @@
 
 <!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Diseñador;Apasionado+del+Anime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Dise%C3%B1ador;Apasionado+del+Anime" alt="Typing SVG" />
 </p>
 
 <!-- ========== BADGES DE ESTADO ========== -->
