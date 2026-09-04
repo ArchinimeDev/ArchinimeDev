@@ -22,6 +22,15 @@
   <img src="https://img.shields.io/badge/🎨%20UI-Cyberpunk-ffd700?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
 </p>
 
+<!-- ========== ESTADÍSTICAS EN BADGES ========== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📁%20Repositorios-0-00F0FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20Estrellas-0-b114ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Seguidores-0-ff1a6b?style=for-the-badge" />
+  <br>
+  <i>📊 Estadísticas de Archinime en GitHub</i>
+</p>
+
 <!-- ========== MÚSICA DE FONDO ========== -->
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
@@ -35,15 +44,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%80%9CDa+el+primer+paso%3A+No+esperes+a+que+todo+sea+perfecto+para+actuar.%E2%80%9D" alt="Frase motivacional" />
 </p>
-
----
-
-<!-- ========== ESTADÍSTICAS DE ARCHINIME ========== -->
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Archinime&cc=05070A&tc=00F0FF&ic=b114ff&bc=0D1117" width="450" />
-  <br>
-  <i>⭐ Estadísticas de Archinime en GitHub</i>
-</div>
 
 ---
 
@@ -127,18 +127,6 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
-
----
-
-<!-- ========== ESTADÍSTICAS DE GITHUB ========== -->
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff&v=1" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&v=1" alt="Lenguajes" width="42%" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&v=1" alt="Racha" width="48%" />
-</div>
 
 ---
 
