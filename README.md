@@ -31,9 +31,9 @@
   <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
 </p>
 
-<!-- ========== FRASE MOTIVACIONAL ========== -->
+<!-- ========== FRASE MOTIVACIONAL (CORTA) ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=%E2%80%9CDa+el+primer+paso%3A+No+esperes+a+que+todo+sea+perfecto+para+actuar.%E2%80%9D" alt="Frase motivacional" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%80%9CDa+el+primer+paso.+No+esperes+la+perfecci%C3%B3n.%E2%80%9D" alt="Frase motivacional" />
 </p>
 
 ---
@@ -135,16 +135,16 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" style="max-width: 500px;" />
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" />
 </td>
-<td align="center" width="50%">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" style="max-width: 500px;" />
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" />
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="100%" style="max-width: 800px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="48%" />
 </td>
 </tr>
 </table>
