@@ -31,7 +31,7 @@
   <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
 </p>
 
-<!-- ========== FRASE MOTIVACIONAL (CORTA) ========== -->
+<!-- ========== FRASE MOTIVACIONAL ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%80%9CDa+el+primer+paso.+No+esperes+la+perfecci%C3%B3n.%E2%80%9D" alt="Frase motivacional" />
 </p>
@@ -144,7 +144,7 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 </tr>
 <tr>
 <td align="center" colspan="2">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="100%" />
 </td>
 </tr>
 </table>
