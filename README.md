@@ -130,6 +130,18 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 
 ---
 
+<!-- ========== ESTADÍSTICAS DE GITHUB ========== -->
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Archinime&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=ffffff&v=2" alt="Estadísticas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archinime&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&v=2" alt="Lenguajes" width="42%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&v=2" alt="Racha" width="48%" />
+</div>
+
+---
+
 <!-- ========== CONTRIBUCIONES ========== -->
 ## 🐍 Contribuciones
 
