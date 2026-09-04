@@ -50,9 +50,9 @@
 <!-- ========== SOBRE EL PROYECTO ========== -->
 ## 🌌 Sobre Archinime
 
-<table>
-<tr>
-<td width="70%">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Logo_Archinime_animado.gif" alt="Archinime Logo" width="150" />
+</p>
 
 **Archinime** es una plataforma de streaming de anime con una **interfaz cyberpunk inmersiva**. Combina diseño neón, efectos visuales, comunidad en tiempo real y un catálogo masivo de más de **160 animes** (y creciendo). Está construida con **JavaScript puro, Firebase y amor por el anime**.
 
@@ -65,15 +65,6 @@
 - 🖼️ **Sistema de stickers** personalizables (subida a Catbox).
 - 🔐 **Autenticación** con Firebase (correo, Google, GitHub).
 - 📱 **PWA** para instalación en dispositivos móviles.
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Logo_Archinime_animado.gif" alt="Archinime Logo" width="150" />
-
-</td>
-</tr>
-</table>
 
 ---
 
