@@ -3,12 +3,12 @@
 <!--  Inspirado en el estilo de DevZyxlJs y el universo cyberpunk  -->
 <!-- ============================================================ -->
 
-<!-- ========== BANNER CON GIF ANIMADO ========== -->
+<!-- ========== BANNER PRINCIPAL ========== -->
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Banner" width="100%" />
 </p>
 
-<!-- ========== EFECTO DE ESCRITURA PRINCIPAL ========== -->
+<!-- ========== TYPING SVG ========== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=36&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Dise%C3%B1ador;Apasionado+del+Anime" alt="Typing SVG" />
 </p>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/🎨%20UI-Cyberpunk-ffd700?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
 </p>
 
-<!-- ========== MÚSICA DE FONDO ========== -->
+<!-- ========== MÚSICA ========== -->
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
     <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA%20DE%20FONDO-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
@@ -88,6 +88,7 @@
 
 ---
 
+<!-- ========== HABITACIÓN 3D ========== -->
 ## 🏠 Habitación 3D Interactiva (Lunari OS)
 
 <p align="center">
