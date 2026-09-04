@@ -101,8 +101,12 @@
 
 ---
 
-<!-- ========== SOBRE MÍ ========== -->
+<!-- ========== SOBRE MÍ (CON GIF AL COSTADO) ========== -->
 ## 👨‍💻 Sobre Mí
+
+<table>
+<tr>
+<td width="70%">
 
 Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tecnología. Mi objetivo es crear experiencias inmersivas que combinen código, arte y comunidad.
 
@@ -110,6 +114,13 @@ Soy un **desarrollador Full Stack** apasionado por el anime, el diseño y la tec
 - 🌱 Aprendiendo: Nuevas tecnologías para mejorar la experiencia de usuario (WebAssembly, WebGL, etc.).
 - 💬 Pregúntame sobre: Firebase, JavaScript, HTML/CSS, o cualquier cosa relacionada con anime.
 - ⚡ Dato curioso: Mi web tiene efectos visuales de neón y un sistema completo de autenticación.
+
+</td>
+<td width="30%" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Archinime Avatar" width="200" />
+</td>
+</tr>
+</table>
 
 ---
 
