@@ -1,45 +1,58 @@
+<!-- ========== BANNER PRINCIPAL CON EFECTO CYBER ========== -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Cyber Banner" width="100%" style="border-radius: 8px; box-shadow: 0 0 20px rgba(0,240,255,0.3);" />
 </p>
 
+<!-- ========== TYPING SVG HUD ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Dise%C3%B1ador;Apasionado+del+Anime" alt="Typing SVG" style="max-width: 100%;" />
+  <a href="https://archinime.github.io/-Archinime-/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2800&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=ARCHINIME+%3A%3A+PLATAFORMA+DE+STREAMING+CYBERPUNK;FULL+STACK+DEVELOPER+%2B+3D+WEB+DESIGNER;LUNARI+OS+%3A%3A+ENTORNO+3D+INTERACTIVO;FIRESTORE+REAL-TIME+DATA+ARCHITECTURE" alt="Archinime Dynamic Terminal HUD" style="max-width: 100%;" />
+  </a>
 </p>
 
+<!-- ========== SYSTEM STATUS MATRIX (BADGES) ========== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/📦%20VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📜%20LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/📱%20PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/🎨%20UI-Cyberpunk-ffd700?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORE_VERSION-v2.1.0--CYBER-b114ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABASE-FIRESTORE_LIVE-ff1a6b?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRAPHICS-THREE.JS_WebGL-00ff9d?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PWA-STANDALONE_READY-ffd700?style=for-the-badge&logo=pwa&logoColor=white" />
 </p>
 
+<!-- ========== AUDIO DE FONDO MATRIX ========== -->
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
-    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA%20DE%20FONDO-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🎵%20AUDIO_MATRIX-SYNTHWAVE_soundtrack-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <br>
-  <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%80%9CDa+el+primer+paso.+No+esperes+la+perfecci%C3%B3n.%E2%80%9D" alt="Frase motivacional" style="max-width: 100%;" />
+  <sub style="color: #8b949e;">▶️ Haz clic para iniciar la banda sonora ambiental en segundo plano</sub>
 </p>
 
 ---
 
+<!-- ========== TERMINAL COMMAND DECK ========== -->
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Archinime&cc=05070A&tc=00F0FF&ic=b114ff&bc=0D1117" width="100%" style="max-width: 450px;" />
-  <br>
-  <i>⭐ Estadísticas de Archinime en GitHub</i>
+  <table width="100%" style="background-color: #0d1117; border: 1px solid #00F0FF; border-radius: 8px; font-family: monospace;">
+    <tr>
+      <td style="padding: 12px; color: #00F0FF;">
+        <span style="color: #ff1a6b;">●</span> <span style="color: #ffd700;">●</span> <span style="color: #00ff9d;">●</span> <b>ARCHINIME CLI - SYSTEM MONITOR v2.1</b><br><br>
+        <span style="color: #00ff9d;">$</span> archinime --status --verbose<br>
+        <span style="color: #8b949e;">[+] Status:</span> <span style="color: #00F0FF;">All systems operational</span><br>
+        <span style="color: #8b949e;">[+] Active Modules:</span> <span style="color: #b114ff;">Stream Engine, Firestore DB, 3D Spatial Room (Lunari OS), CMS Automation</span><br>
+        <span style="color: #8b949e;">[+] Catalog Size:</span> <span style="color: #00ff9d;">160+ Anime Titles (Real-time sync)</span><br>
+        <span style="color: #8b949e;">[+] Environment Sync:</span> <span style="color: #ffd700;">Live Weather API & Dynamic Shaders</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🌌 Sobre Archinime
+<!-- ========== SOBRE EL PROYECTO ARCHINIME ========== -->
+## 🌌 Core System :: Archinime Platform
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Logo_Archinime_animado.gif" alt="Archinime Logo" width="150" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Logo_Archinime_animado.gif" alt="Archinime Logo Animado" width="140" style="filter: drop-shadow(0 0 10px #00F0FF);" />
 </p>
 
 **Archinime** es una plataforma de streaming de anime independiente con una **interfaz cyberpunk inmersiva**. Combina diseño neón, efectos visuales, comunidad en tiempo real y un catálogo masivo de más de **160 animes** (y creciendo). Todo el sistema está impulsado por una sólida arquitectura de **JavaScript puro, Firebase Cloud Firestore y pasión por el anime**.
@@ -56,91 +69,108 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+<!-- ========== PROYECTOS DESTACADOS / QUICK LINKS ========== -->
+## 🚀 Módulos Destacados
 
 <div align="center">
   <a href="https://archinime.github.io/-Archinime-/">
-    <img src="https://img.shields.io/badge/🌐%20ARCHINIME-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_SITIO_OFICIAL-ARCHINIME_CORE-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://archinime.github.io/-Archinime-/room.html">
-    <img src="https://img.shields.io/badge/🏠%20HABITACIÓN%203D-b114ff?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏠_ENTORNO_3D-LUNARI_ROOM_3D-b114ff?style=for-the-badge&logo=three.js&logoColor=white" />
   </a>
   <a href="https://github.com/Archinime/-Archinime-">
-    <img src="https://img.shields.io/badge/📦%20REPOSITORIO-ff1a6b?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/📦_REPOSITORIO-SOURCE_CODE-ff1a6b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
-> **La nueva era del anime.** > Plataforma gestionada con diseño cyberpunk, reproductor de vídeo, chat comunitario, sistema de votaciones y un catálogo masivo.
-
 ---
 
-## 🏠 Habitación 3D Interactiva (Lunari OS)
+<!-- ========== HABITACIÓN 3D LUNARI OS ========== -->
+## 🏠 Entorno 3D Interactivo :: Lunari OS
 
 <p align="center">
   <a href="https://archinime.github.io/-Archinime-/room.html">
-    <img src="https://img.shields.io/badge/🌐%20EXPLORAR-HABITACIÓN%203D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_INICIAR_SIMULACIÓN-EXPLORAR_HABITACIÓN_3D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
   </a>
 </p>
 
-> **¡Descubre la habitación de Lunari!** > Un entorno 3D inmersivo construido con Three.js y modelos de Blender. Cuenta con controles de TV, PC, **un sistema de clima sincronizado en tiempo real** según tu ubicación, y un inventario completo. Haz clic en el botón para explorarla.
+> **Subsistema 3D Hyper-Inmersivo:** Explora el espacio interactivo de Lunari. Diseñado con **Three.js**, iluminación dinámica PBR, texturas optimizadas en Blender y **sincronización de clima en tiempo real** (cambia la atmósfera de la habitación según tu tiempo meteorológico local).
 
 ---
 
-## 👨‍💻 Sobre Mí
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Archinime Avatar" width="150" style="margin-bottom: 15px; border-radius: 10px;" />
-</div>
-
-Soy un **desarrollador Full Stack** y creador independiente apasionado por el anime, el diseño web interactivo y la tecnología. Mi objetivo es crear experiencias inmersivas que combinen código, arte en 3D y comunidad.
-
-- 🔭 Actualmente trabajando en: **Archinime** (Arquitectura en Firestore, CMS automatizado en Python, más de 160 animes y chat en tiempo real).
-- 🌱 Aprendiendo: Nuevas tecnologías para llevar la experiencia de usuario al siguiente nivel (Three.js avanzado, WebAssembly, WebGL).
-- 💬 Pregúntame sobre: Integraciones complejas con Firebase, JavaScript puro, creación de entornos 3D en la web, o cualquier cosa relacionada con anime.
-- ⚡ Dato curioso: Mi plataforma incluye un sistema dinámico para asegurar que todos los IDs se actualicen secuencialmente de forma automática.
-
----
-
-## 🛠️ Stack Tecnológico
+<!-- ========== STACK TECNOLÓGICO MATRIX ========== -->
+## 🛠️ Matrix Tecnológica
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <!-- Frontend & Graphics -->
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5_Cyber_UI-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3_Neon_FX-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Backend & Cloud -->
+  <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!-- Design & Tools -->
+  <img src="https://img.shields.io/badge/Blender_3D-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_VCS-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+<!-- ========== ROADMAP & EVOLUCIÓN ========== -->
+## 🗺️ Roadmap de Desarrollo
+
+- [x] **Fase 1:** Diseño de interfaz Cyberpunk & Reproductor de Video Servidor Múltiple.
+- [x] **Fase 2:** Migración de infraestructura a **Firebase Cloud Firestore** & Chat Global en tiempo real.
+- [x] **Fase 3:** Lanzamiento de **Lunari OS 3D** con motor Three.js & sincronización meteorológica en vivo.
+- [/] **Fase 4:** Optimización de renderizado WebGL/WebAssembly & Expansión de comunidad.
+- [ ] **Fase 5:** Sub-sistema de streaming P2P & Aplicación Nativa Mobile.
+
+---
+
+<!-- ========== SOBRE EL DESARROLLADOR ========== -->
+## 👨‍💻 Operador del Sistema :: Sobre Mí
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" style="width: 48%; min-width: 300px; margin-bottom: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" style="width: 48%; min-width: 300px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Developer Avatar Cyberpunk" width="150" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 15px #00F0FF; margin-bottom: 12px;" />
+</div>
+
+Soy un **Desarrollador Full Stack & Diseñador de Experiencias Web 3D**. Como único creador y administrador de Archinime, me enfoco en fusionar código limpio, rendimiento gráfico de vanguardia y estéticas futuristas para crear plataformas digitales inolvidables.
+
+- 🔭 **Enfoque Actual**: Escalabilidad de la plataforma Archinime, integración de motores 3D interactivos en la web y automatización de datos.
+- 🎯 **Especialidades**: Web Graphics (Three.js/WebGL), Firebase Cloud Architecture, Python Scripting y Frontend UI/UX Cyberpunk.
+- ⚡ **Filosofía**: *"Crea experiencias inmersivas, no solo páginas web."*
+
+---
+
+<!-- ========== ESTADÍSTICAS TELEMETRÍA GITHUB ========== -->
+## 📊 Telemetría y Métricas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas de Actividad" style="width: 48%; min-width: 290px; margin-bottom: 10px; border-radius: 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Uso de Lenguajes" style="width: 48%; min-width: 290px; margin-bottom: 10px; border-radius: 6px;" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="100%" style="max-width: 800px; margin-top: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="GitHub Streak Cyberpunk" width="100%" style="max-width: 800px; margin-top: 10px; border-radius: 6px;" />
 </div>
 
 ---
 
-## 🐍 Contribuciones
+<!-- ========== MATRIZ DE CONTRIBUCIONES (SNAKE) ========== -->
+## 🐍 Matriz de Contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img alt="GitHub Snake Cyber Matrix" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 ---
 
-## 📫 ¿Dónde encontrarme?
+<!-- ========== CANALES DE COMUNICACIÓN ========== -->
+## 📫 Enlaces de Transmisión
 
 <p align="center">
   <a href="https://www.youtube.com/@Archinime-k2g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -153,14 +183,15 @@ Soy un **desarrollador Full Stack** y creador independiente apasionado por el an
 
 ---
 
+<!-- ========== FOOTER & CONTADOR ========== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Cyberpunk Footer Line" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Archinime&color=00F0FF&style=flat-square" alt="Visitas al perfil" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Footer" width="200" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Terminal End" width="180" />
 </p>
