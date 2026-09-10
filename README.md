@@ -1,8 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════
-     HEADER ONDULADO ANIMADO
+     HEADER ONDULADO ANIMADO — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=180&section=header&text=ARCHINIME%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=La%20Nueva%20Era%20del%20Anime&descAlignY=62&descAlign=50&descSize=20" alt="Header" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=140&section=header&text=ARCHINIME&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=La%20Nueva%20Era%20del%20Anime&descAlignY=70&descSize=13">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=180&section=header&text=ARCHINIME%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=La%20Nueva%20Era%20del%20Anime&descAlignY=62&descAlign=50&descSize=20" alt="Header" width="100%" />
+  </picture>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
@@ -18,15 +21,18 @@
 </video>
 
 <!-- ═══════════════════════════════════════════════════════
-     HERO PERSONAL — TYPING ANIMADO MULTILÍNEA
+     HERO PERSONAL — TYPING ANIMADO MULTILÍNEA (RESPONSIVE)
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8C%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=360&height=140&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8C%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8C%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+  </picture>
 
   <br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" alt="Divider" width="80%" style="max-width:600px;" />
 
 </div>
 
@@ -55,13 +61,13 @@ fun_fact: "Mi plataforma tiene más de 160 animes y un sistema de IDs auto-incre
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     TARJETA PERSONAL DE PRESENTACIÓN
+     TARJETA PERSONAL DE PRESENTACIÓN — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="ArchinimeDev" width="220" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" />
+<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="ArchinimeDev" width="100%" style="max-width:220px; border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" />
 
 <br><br>
 
@@ -99,36 +105,36 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2000&pause=300&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+JavaScript+%E2%9A%A1+Firebase+%E2%9A%A1+Three.js+%E2%9A%A1+UI%2FUX+%E2%9A%A1+Cyberpunk+%E2%9A%A1+Anime+%E2%9A%A1+Firestore+%E2%9A%A1" alt="Marquee" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2000&pause=300&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+JavaScript+%E2%9A%A1+Firebase+%E2%9A%A1+Three.js+%E2%9A%A1+UI%2FUX+%E2%9A%A1+Cyberpunk+%E2%9A%A1+Anime+%E2%9A%A1+Firestore+%E2%9A%A1" alt="Marquee" width="100%" style="max-width:700px;" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     MINI TARJETAS DE PERFIL
+     MINI TARJETAS DE PERFIL — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/📍_UBICACIÓN-Perú-00F0FF?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/📍_UBICACIÓN-Perú-00F0FF?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:160px;" />
 <br>
 <sub>🌎 Lima, Perú</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💼_ROL-Full_Stack-b114ff?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/💼_ROL-Full_Stack-b114ff?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:160px;" />
 <br>
 <sub>💻 Front + Back</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓_MENTALIDAD-Autodidacta-ff1a6b?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/🎓_MENTALIDAD-Autodidacta-ff1a6b?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:160px;" />
 <br>
 <sub>📚 Siempre aprendiendo</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/☕_NIVEL_DE_CAFE-∞-ffd700?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/☕_NIVEL_DE_CAFE-∞-ffd700?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:160px;" />
 <br>
 <sub>🔥 Modo infinito</sub>
 </td>
@@ -145,36 +151,36 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:b114ff,100:ff1a6b&height=4&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════
-     STACK TECNOLÓGICO PERSONAL
+     STACK TECNOLÓGICO PERSONAL — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">🛠️ Mi Arsenal Tecnológico</h3>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" width="150" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" width="100%" style="max-width:150px;" />
 <br>
 <sub><b>Frontend</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,python,php" width="150" />
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,python,php" width="100%" style="max-width:150px;" />
 <br>
 <sub><b>Backend</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="150" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="100%" style="max-width:150px;" />
 <br>
 <sub><b>Herramientas</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=blender,threejs,cloudinary" width="120" />
+<img src="https://skillicons.dev/icons?i=blender,threejs,cloudinary" width="100%" style="max-width:120px;" />
 <br>
 <sub><b>3D & Media</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="90" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="100%" style="max-width:90px;" />
 <br>
 <sub><b>Bases de Datos</b></sub>
 </td>
@@ -207,20 +213,20 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     PROYECTOS COMO LOGROS PERSONALES
+     PROYECTOS COMO LOGROS PERSONALES — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">💡 Lo Que He Construido</h3>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" align="center" valign="top">
 
 <br>
 
-<img src="https://img.shields.io/badge/🌟_PROYECTO_ESTRELLA-00F0FF?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/🌟_PROYECTO_ESTRELLA-00F0FF?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:280px;" />
 
 <br><br>
 
@@ -242,11 +248,11 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 <br><br>
 
 <a href="https://archinime.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_VISITAR_SITIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070A" />
+  <img src="https://img.shields.io/badge/🚀_VISITAR_SITIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070A" width="100%" style="max-width:200px;" />
 </a>
 
 <a href="https://github.com/ArchinimeDev/Archinime" target="_blank">
-  <img src="https://img.shields.io/badge/📦_VER_CÓDIGO-b114ff?style=for-the-badge&logo=github&logoColor=white&labelColor=05070A" />
+  <img src="https://img.shields.io/badge/📦_VER_CÓDIGO-b114ff?style=for-the-badge&logo=github&logoColor=white&labelColor=05070A" width="100%" style="max-width:200px;" />
 </a>
 
 <br><br>
@@ -257,7 +263,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 
 <br>
 
-<img src="https://img.shields.io/badge/🎮_EXPERIMENTO_3D-b114ff?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/🎮_EXPERIMENTO_3D-b114ff?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:280px;" />
 
 <br><br>
 
@@ -279,7 +285,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 <br><br>
 
 <a href="https://archinime.pages.dev/pages/room.html" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_EXPLORAR-b114ff?style=for-the-badge&logo=three.js&logoColor=white&labelColor=05070A" />
+  <img src="https://img.shields.io/badge/🌐_EXPLORAR-b114ff?style=for-the-badge&logo=three.js&logoColor=white&labelColor=05070A" width="100%" style="max-width:200px;" />
 </a>
 
 <br><br>
@@ -294,17 +300,17 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     FILOSOFÍA DE TRABAJO
+     FILOSOFÍA DE TRABAJO — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">💭 Mi Filosofía de Trabajo</h3>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/🎯_ENFOQUE-00F0FF?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/🎯_ENFOQUE-00F0FF?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:180px;" />
 <br><br>
 <b>Calidad sobre cantidad</b>
 <br>
@@ -313,7 +319,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/♻️_APRENDIZAJE-b114ff?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/♻️_APRENDIZAJE-b114ff?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:180px;" />
 <br><br>
 <b>Nunca dejar de aprender</b>
 <br>
@@ -322,7 +328,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 </td>
 <td align="center" width="33%">
 <br>
-<img src="https://img.shields.io/badge/❤️_PASIÓN-ff1a6b?style=for-the-badge&labelColor=05070A" />
+<img src="https://img.shields.io/badge/❤️_PASIÓN-ff1a6b?style=for-the-badge&labelColor=05070A" width="100%" style="max-width:180px;" />
 <br><br>
 <b>Hazlo con amor</b>
 <br>
@@ -337,13 +343,13 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     STATS PERSONALES — GIFS DEL MISMO TAMAÑO
+     STATS PERSONALES — GIFS DEL MISMO TAMAÑO (RESPONSIVE)
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">📊 Mi Actividad</h3>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" style="max-width: 400px;" />
@@ -477,7 +483,7 @@ Last Updated on 10/09/2026 19:09:28 UTC
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     GITHUB STATS — TARJETAS
+     GITHUB STATS — TARJETAS (RESPONSIVE)
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">📊 Mis Estadísticas de GitHub</h3>
 
@@ -503,13 +509,13 @@ Last Updated on 10/09/2026 19:09:28 UTC
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     DATOS CURIOSOS
+     DATOS CURIOSOS — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">⚡ Datos Aleatorios Sobre Mí</h3>
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%">
 <br>
@@ -555,11 +561,11 @@ Last Updated on 10/09/2026 19:09:28 UTC
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     CTA PERSONAL
+     CTA PERSONAL — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" width="80%" style="max-width:600px;" />
 
 <br><br>
 
@@ -572,19 +578,19 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 <br>
 
 <a href="mailto:archinime12@gmail.com">
-  <img src="https://img.shields.io/badge/📩_CONTÁCTAME-archinime12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070A" height="45" />
+  <img src="https://img.shields.io/badge/📩_CONTÁCTAME-archinime12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070A" height="45" style="max-width:100%;" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" width="80%" style="max-width:600px;" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     REDES SOCIALES
+     REDES SOCIALES — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -621,7 +627,7 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=Gracias+por+pasarte+por+mi+perfil+%F0%9F%92%99;%C2%A1Nos+vemos+en+el+pr%C3%B3ximo+commit!+%F0%9F%9A%80;Hecho+con+%E2%9D%A4%EF%B8%8F+y+mucho+caf%C3%A9+%E2%98%95" alt="Despedida" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=Gracias+por+pasarte+por+mi+perfil+%F0%9F%92%99;%C2%A1Nos+vemos+en+el+pr%C3%B3ximo+commit!+%F0%9F%9A%80;Hecho+con+%E2%9D%A4%EF%B8%8F+y+mucho+caf%C3%A9+%E2%98%95" alt="Despedida" width="100%" style="max-width:600px;" />
 
 <br>
 
@@ -630,8 +636,11 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
-     FOOTER ONDULADO ANIMADO
+     FOOTER ONDULADO ANIMADO — RESPONSIVE
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=150&section=footer&text=ARCHINIME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=110&section=footer&text=ARCHINIME&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=150&section=footer&text=ARCHINIME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" width="100%" />
+  </picture>
 </div>
