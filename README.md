@@ -22,7 +22,7 @@
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8C%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
 
   <br>
 
@@ -210,13 +210,6 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
      PROYECTOS COMO LOGROS PERSONALES
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">💡 Lo Que He Construido</h3>
-
-<!-- 🏆 IMAGEN DE LOGRO -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/yohaniapareciopilares12-boop/herramientas@main/logro.avif" alt="Logro" width="100%" style="max-width: 700px;" />
-</div>
-
-<br>
 
 <div align="center">
 
@@ -484,13 +477,19 @@ Last Updated on 10/09/2026 19:09:28 UTC
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     RACHA DE CONTRIBUCIONES — SOLO STREAK
+     GITHUB STATS — TARJETAS
 ═══════════════════════════════════════════════════════ -->
-<h3 align="center">🔥 Mi Racha de Contribuciones</h3>
+<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ArchinimeDev&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Racha de ArchinimeDev" width="100%" style="max-width: 800px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArchinimeDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Estadísticas de ArchinimeDev" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchinimeDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="Lenguajes de ArchinimeDev" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ArchinimeDev&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Racha de ArchinimeDev" width="100%" />
 
 </div>
 
@@ -502,7 +501,7 @@ Last Updated on 10/09/2026 19:09:28 UTC
 <h3 align="center">🏆 Mis Trofeos</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArchinimeDev&theme=radical&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trofeos" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/yohaniapareciopilares12-boop/herramientas@main/logro.avif" alt="Trofeos" width="100%" />
 </p>
 
 ---
