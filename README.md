@@ -139,7 +139,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     BANNER DE SEPARACIÓN — 3.GIF (aquí, no al inicio)
+     BANNER DE SEPARACIÓN — 3.GIF
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="ArchinimeDev Banner" width="100%" />
@@ -425,11 +425,13 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════
-     VISITAS Y FOOTER PERSONAL
+     VISITAS AL PERFIL — SERVICIO ALTERNATIVO
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ArchinimeDev&color=b114ff&style=for-the-badge&label=VISITAS_AL_PERFIL" alt="Visitas" />
+<a href="https://visitor-badge.laobi.icu/badge?page_id=ArchinimeDev.ArchinimeDev" target="_blank">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArchinimeDev.ArchinimeDev&left_text=VISITAS&left_color=05070A&right_color=b114ff" alt="Visitas al perfil" />
+</a>
 
 <br><br>
 
