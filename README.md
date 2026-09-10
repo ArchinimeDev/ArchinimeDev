@@ -1,451 +1,166 @@
-<!-- ═══════════════════════════════════════════════════════
-     HERO PERSONAL — "HOLA, SOY ARCHINIMEDEV"
-═══════════════════════════════════════════════════════ -->
-<div align="center">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="Archinime Banner" width="100%" />
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&lines=ARCHINIME;La+Nueva+Era+del+Anime;Sistema+Cyberpunk;Full+Stack+Developer;UI%2FUX+Dise%C3%B1ador;Apasionado+del+Anime" alt="Typing SVG" style="max-width: 100%;" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20ESTADO-EN_DESARROLLO-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/📦%20VERSIÓN-2.1.0-b114ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📜%20LICENCIA-MIT-ff1a6b?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/📱%20PWA-Lista-00ff9d?style=for-the-badge&logo=pwa&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨%20UI-Cyberpunk-ffd700?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Nightcore%20-%20Monster%20%5BNMV%5D.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🎵%20ESCUCHAR-MÚSICA%20DE%20FONDO-ff1a6b?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
   <br>
+  <i>▶️ Haz clic para escuchar la banda sonora (se abre en nueva pestaña)</i>
+</p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" alt="Divider" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════
-     TARJETA PERSONAL DE PRESENTACIÓN
-═══════════════════════════════════════════════════════ -->
-<table align="center" border="0">
-<tr>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="ArchinimeDev" width="220" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🟢_DISPONIBLE-PARA_COLABORAR-00ff9d?style=for-the-badge&labelColor=05070A" />
-
-</td>
-<td width="65%" valign="middle">
-
-### 🚀 **¿Quién soy?**
-
-Soy **ArchinimeDev**, un desarrollador **Full Stack** autodidacta y creador independiente apasionado por el anime, el diseño web interactivo y la construcción de experiencias digitales únicas.
-
-No solo escribo código: **construyo mundos**. Cada línea que programo busca transmitir la misma emoción que siento al ver un buen anime.
-
-<br>
-
-**🎯 Mi enfoque:**
-- 🎨 Interfaces con identidad visual fuerte
-- ⚡ Rendimiento sin sacrificar estética
-- 💡 Soluciones creativas a problemas reales
-- 🌐 Comunidad y experiencias compartidas
-
-<br>
-
-> *"Da el primer paso. No esperes la perfección."*
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%E2%80%9CDa+el+primer+paso.+No+esperes+la+perfecci%C3%B3n.%E2%80%9D" alt="Frase motivacional" style="max-width: 100%;" />
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════
-     MINI TARJETAS DE PERFIL
-═══════════════════════════════════════════════════════ -->
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📍_UBICACIÓN-Perú-00F0FF?style=for-the-badge&labelColor=05070A" />
-<br>
-<sub>🌎 Lima, Perú</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💼_ROL-Full_Stack-b114ff?style=for-the-badge&labelColor=05070A" />
-<br>
-<sub>💻 Front + Back</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓_MENTALIDAD-Autodidacta-ff1a6b?style=for-the-badge&labelColor=05070A" />
-<br>
-<sub>📚 Siempre aprendiendo</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/☕_NIVEL_DE_CAFE-∞-ffd700?style=for-the-badge&labelColor=05070A" />
-<br>
-<sub>🔥 Modo infinito</sub>
-</td>
-</tr>
-</table>
-
+  <img src="https://github-stats-alpha.vercel.app/api?username=Archinime&cc=05070A&tc=00F0FF&ic=b114ff&bc=0D1117" width="100%" style="max-width: 450px;" />
+  <br>
+  <i>⭐ Estadísticas de Archinime en GitHub</i>
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════
-     STACK TECNOLÓGICO PERSONAL
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">🛠️ Mi Arsenal Tecnológico</h3>
+## 🌌 Sobre Archinime
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Archivos-data@main/Logo_Archinime_animado.gif" alt="Archinime Logo" width="150" />
+</p>
+
+**Archinime** es una plataforma de streaming de anime independiente con una **interfaz cyberpunk inmersiva**. Combina diseño neón, efectos visuales, comunidad en tiempo real y un catálogo masivo de más de **160 animes** (y creciendo). Todo el sistema está impulsado por una sólida arquitectura de **JavaScript puro, Firebase Cloud Firestore y pasión por el anime**.
+
+🔹 **Características principales:**
+- 🎮 **Efectos visuales** (partículas, chroma key, animaciones CSS).
+- 💬 **Chat global en tiempo real** con stickers y reacciones.
+- 🔔 **Sistema de notificaciones** con popups y cola inteligente.
+- ⭐ **Votaciones y rankings** de animes.
+- 📺 **Reproductor de video** con múltiples servidores y marcador de episodios vistos.
+- 🖼️ **Sistema de stickers** personalizables (subida a Catbox).
+- 🔐 **Autenticación y Base de Datos** centralizada con Firebase (correo, Google, GitHub).
+- 📱 **PWA** para instalación nativa en dispositivos móviles.
+
+---
+
+## 🚀 Proyectos Destacados
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" width="150" />
-<br>
-<sub><b>Frontend</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=firebase,nodejs,python,php" width="150" />
-<br>
-<sub><b>Backend</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="150" />
-<br>
-<sub><b>Herramientas</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=blender,threejs,cloudinary" width="120" />
-<br>
-<sub><b>3D & Media</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="90" />
-<br>
-<sub><b>Bases de Datos</b></sub>
-</td>
-</tr>
-</table>
-
+  <a href="https://archinime.github.io/-Archinime-/">
+    <img src="https://img.shields.io/badge/🌐%20ARCHINIME-00F0FF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://archinime.github.io/-Archinime-/room.html">
+    <img src="https://img.shields.io/badge/🏠%20HABITACIÓN%203D-b114ff?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/Archinime/-Archinime-">
+    <img src="https://img.shields.io/badge/📦%20REPOSITORIO-ff1a6b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<br>
+> **La nueva era del anime.** > Plataforma gestionada con diseño cyberpunk, reproductor de vídeo, chat comunitario, sistema de votaciones y un catálogo masivo.
+
+---
+
+## 🏠 Habitación 3D Interactiva (Lunari OS)
+
+<p align="center">
+  <a href="https://archinime.github.io/-Archinime-/room.html">
+    <img src="https://img.shields.io/badge/🌐%20EXPLORAR-HABITACIÓN%203D-00F0FF?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</p>
+
+> **¡Descubre la habitación de Lunari!** > Un entorno 3D inmersivo construido con Three.js y modelos de Blender. Cuenta con controles de TV, PC, **un sistema de clima sincronizado en tiempo real** según tu ubicación, y un inventario completo. Haz clic en el botón para explorarla.
+
+---
+
+## 👨‍💻 Sobre Mí
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="Archinime Avatar" width="150" style="margin-bottom: 15px; border-radius: 10px;" />
+</div>
 
-**Lenguajes que más uso:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-70%25-F7DF1E?style=flat-square&labelColor=05070A&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML-15%25-E34F26?style=flat-square&labelColor=05070A&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&labelColor=05070A&logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-5%25-3776AB?style=flat-square&labelColor=05070A&logo=python&logoColor=fff)
+Soy un **desarrollador Full Stack** y creador independiente apasionado por el anime, el diseño web interactivo y la tecnología. Mi objetivo es crear experiencias inmersivas que combinen código, arte en 3D y comunidad.
 
+- 🔭 Actualmente trabajando en: **Archinime** (Arquitectura en Firestore, CMS automatizado en Python, más de 160 animes y chat en tiempo real).
+- 🌱 Aprendiendo: Nuevas tecnologías para llevar la experiencia de usuario al siguiente nivel (Three.js avanzado, WebAssembly, WebGL).
+- 💬 Pregúntame sobre: Integraciones complejas con Firebase, JavaScript puro, creación de entornos 3D en la web, o cualquier cosa relacionada con anime.
+- ⚡ Dato curioso: Mi plataforma incluye un sistema dinámico para asegurar que todos los IDs se actualicen secuencialmente de forma automática.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" style="width: 48%; min-width: 300px; margin-bottom: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" style="width: 48%; min-width: 300px; margin-bottom: 10px;" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archinime&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b" alt="Racha" width="100%" style="max-width: 800px; margin-top: 10px;" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════
-     BANNER DE SEPARACIÓN — 3.GIF
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="ArchinimeDev Banner" width="100%" />
-</div>
+## 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════
-     PROYECTOS COMO LOGROS PERSONALES
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">💡 Lo Que He Construido</h3>
+## 📫 ¿Dónde encontrarme?
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/🌟_PROYECTO_ESTRELLA-00F0FF?style=for-the-badge&labelColor=05070A" />
-
-<br><br>
-
-### 🎬 **Archinime**
-
-**Plataforma de streaming de anime con interfaz cyberpunk**
-
-<br>
-
-<sub>
-🎨 Diseño único con estética neón<br>
-💬 Chat global en tiempo real<br>
-⭐ Sistema de votaciones y rankings<br>
-📺 Reproductor multi-servidor<br>
-📱 PWA instalable nativa<br>
-🔐 Firebase Auth + Firestore
-</sub>
-
-<br><br>
-
-<a href="https://archinime.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_VISITAR_SITIO-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05070A" />
-</a>
-
-<a href="https://github.com/ArchinimeDev/Archinime" target="_blank">
-  <img src="https://img.shields.io/badge/📦_VER_CÓDIGO-b114ff?style=for-the-badge&logo=github&logoColor=white&labelColor=05070A" />
-</a>
-
-<br><br>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<br>
-
-<img src="https://img.shields.io/badge/🎮_EXPERIMENTO_3D-b114ff?style=for-the-badge&labelColor=05070A" />
-
-<br><br>
-
-### 🏠 **Habitación 3D (Lunari OS)**
-
-**Entorno 3D inmersivo construido desde cero**
-
-<br>
-
-<sub>
-🎨 Modelos creados en Blender<br>
-💻 Construido con Three.js puro<br>
-🗓️ Clima en tiempo real por ubicación<br>
-📺 Controles interactivos de TV y PC<br>
-🎒 Sistema de inventario completo<br>
-🌟 Experimento de exploración web
-</sub>
-
-<br><br>
-
-<a href="https://archinime.pages.dev/pages/room.html" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_EXPLORAR-b114ff?style=for-the-badge&logo=three.js&logoColor=white&labelColor=05070A" />
-</a>
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://www.youtube.com/@Archinime-k2g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://github.com/Archinime"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/Archinime"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://discord.gg/archinime"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/archinime"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:archinime12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════
-     FILOSOFÍA DE TRABAJO
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">💭 Mi Filosofía de Trabajo</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" alt="Footer" width="100%" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Archinime&color=blueviolet&style=flat-square" alt="Visitas al perfil" />
+</p>
 
-<table>
-<tr>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/🎯_ENFOQUE-00F0FF?style=for-the-badge&labelColor=05070A" />
-<br><br>
-<b>Calidad sobre cantidad</b>
-<br>
-<sub>Prefiero una feature perfecta que diez a medias</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/♻️_APRENDIZAJE-b114ff?style=for-the-badge&labelColor=05070A" />
-<br><br>
-<b>Nunca dejar de aprender</b>
-<br>
-<sub>Cada proyecto enseña algo nuevo</sub>
-<br><br>
-</td>
-<td align="center" width="33%">
-<br>
-<img src="https://img.shields.io/badge/❤️_PASIÓN-ff1a6b?style=for-the-badge&labelColor=05070A" />
-<br><br>
-<b>Hazlo con amor</b>
-<br>
-<sub>Si no disfrutas construirlo, no vale la pena</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════
-     STATS PERSONALES — GIFS DEL MISMO TAMAÑO
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">📊 Mi Actividad</h3>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" style="max-width: 400px;" />
-</td>
-<td width="50%" align="center" valign="middle">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" style="max-width: 400px;" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════
-     SNAKE DE CONTRIBUCIONES
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">🐍 Mi Aporte en GitHub</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════
-     DATOS CURIOSOS
-═══════════════════════════════════════════════════════ -->
-<h3 align="center">⚡ Datos Aleatorios Sobre Mí</h3>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<span style="font-size: 2rem;">🎮</span>
-<br>
-<b>Gamer de corazón</b>
-<br>
-<sub>Aunque ahora programo más de lo que juego</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<span style="font-size: 2rem;">🍥</span>
-<br>
-<b>Otaku orgulloso</b>
-<br>
-<sub>+160 animes vistos y contando</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<span style="font-size: 2rem;">🌙</span>
-<br>
-<b>Noctámbulo</b>
-<br>
-<sub>El mejor código sale a las 3 AM</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<span style="font-size: 2rem;">🎨</span>
-<br>
-<b>Perfeccionista</b>
-<br>
-<sub>El píxel tiene que estar en su lugar</sub>
-<br><br>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════
-     CTA PERSONAL
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" />
-
-<br><br>
-
-### 🌟 ¿Trabajamos juntos?
-
-<br>
-
-Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar sobre código y anime**.
-
-<br>
-
-<a href="mailto:archinime12@gmail.com">
-  <img src="https://img.shields.io/badge/📩_CONTÁCTAME-archinime12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070A" height="45" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════
-     REDES SOCIALES
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-
-### 📫 Encuéntrame en:
-
-<br>
-
-<a href="https://www.youtube.com/@Archinime-k2g" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=05070A" />
-</a>
-<a href="https://github.com/ArchinimeDev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=05070A" />
-</a>
-<a href="https://twitter.com/Archinime" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=05070A" />
-</a>
-<a href="https://discord.gg/archinime" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=05070A" />
-</a>
-<a href="https://www.instagram.com/archinime" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=05070A" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════
-     VISITAS AL PERFIL — SERVICIO ALTERNATIVO
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=ArchinimeDev.ArchinimeDev" target="_blank">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArchinimeDev.ArchinimeDev&left_text=VISITAS&left_color=05070A&right_color=b114ff" alt="Visitas al perfil" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&lines=Gracias+por+pasarte+por+mi+perfil+%F0%9F%92%99;%C2%A1Nos+vemos+en+el+pr%C3%B3ximo+commit!+%F0%9F%9A%80;Hecho+con+%E2%9D%A4%EF%B8%8F+y+mucho+caf%C3%A9+%E2%98%95" alt="Despedida" />
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Footer" width="160" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════
-     ONDA FINAL
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=150&section=footer" alt="Footer" width="100%" />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/1.gif" alt="Archinime Footer" width="200" />
+</p>
