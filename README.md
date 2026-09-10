@@ -1,4 +1,21 @@
 <!-- ═══════════════════════════════════════════════════════
+     VIDEO BANNER PRINCIPAL — arriba de todo
+═══════════════════════════════════════════════════════ -->
+<div align="center">
+
+  <video 
+    src="https://github.com/user-attachments/assets/0856a567-13f3-4836-b9bd-2ac1451e8860" 
+    controls 
+    muted 
+    loop 
+    playsinline
+    width="100%" 
+    style="border-radius: 20px; border: 2px solid #00F0FF; box-shadow: 0 0 40px rgba(0, 240, 255, 0.4), 0 0 80px rgba(177, 20, 255, 0.2); max-width: 1000px;">
+  </video>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
      HERO PERSONAL — "HOLA, SOY ARCHINIMEDEV"
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
