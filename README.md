@@ -278,9 +278,38 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
+     MIS ESTADÍSTICAS DE GITHUB
+═══════════════════════════════════════════════════════ -->
+<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
+
+<div align="center">
+
+<!-- Tarjeta de Stats generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=ArchinimeDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Estadísticas de ArchinimeDev" width="100%" style="max-width: 500px;" />
+
+<br><br>
+
+<!-- Tarjeta de Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchinimeDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="Lenguajes de ArchinimeDev" width="100%" style="max-width: 500px;" />
+
+<br><br>
+
+<!-- Racha de contribuciones -->
+<img src="https://streak-stats.demolab.com/?user=ArchinimeDev&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Racha de ArchinimeDev" width="100%" style="max-width: 800px;" />
+
+<br><br>
+
+<!-- Gráfico de actividad -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArchinimeDev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=b114ff&point=ff1a6b&area=true&area_color=b114ff" alt="Gráfico de actividad de ArchinimeDev" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════
      STATS PERSONALES — GIFS DEL MISMO TAMAÑO
 ═══════════════════════════════════════════════════════ -->
-<h3 align="center">📊 Mi Actividad</h3>
+<h3 align="center">🎯 Mi Actividad Personal</h3>
 
 <div align="center">
 
@@ -425,7 +454,7 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 <br>
 
 <!-- ═══════════════════════════════════════════════════════
-     VISITAS AL PERFIL — BADGE KOMAREV (ARCHINIME)
+     VISITAS AL PERFIL — BADGE KOMAREV
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
