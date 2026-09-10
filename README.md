@@ -1,17 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════
-     VIDEO BANNER PRINCIPAL — banner libre sin controles
+     VIDEO BANNER — ANCHO COMPLETO SIN ESPACIOS
 ═══════════════════════════════════════════════════════ -->
-<div align="center">
-  <video 
-    src="https://github.com/user-attachments/assets/0856a567-13f3-4836-b9bd-2ac1451e8860" 
-    autoplay 
-    muted 
-    loop 
-    playsinline
-    width="100%"
-    style="display: block; border: none; outline: none; box-shadow: none; border-radius: 0; max-width: 100%;">
-  </video>
-</div>
+<video 
+  src="https://github.com/user-attachments/assets/0856a567-13f3-4836-b9bd-2ac1451e8860" 
+  autoplay 
+  muted 
+  loop 
+  playsinline
+  style="display:block; width:100%; height:auto; border:none; outline:none; box-shadow:none; border-radius:0; margin:0; padding:0; object-fit:cover;">
+</video>
 
 <!-- ═══════════════════════════════════════════════════════
      HERO PERSONAL — "HOLA, SOY ARCHINIMEDEV"
