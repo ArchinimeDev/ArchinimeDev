@@ -211,6 +211,13 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">💡 Lo Que He Construido</h3>
 
+<!-- 🏆 IMAGEN DE LOGRO -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/yohaniapareciopilares12-boop/herramientas@main/logro.avif" alt="Logro" width="100%" style="max-width: 700px;" />
+</div>
+
+<br>
+
 <div align="center">
 
 <table>
@@ -477,19 +484,13 @@ Last Updated on 10/09/2026 19:09:28 UTC
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     GITHUB STATS — TARJETAS
+     RACHA DE CONTRIBUCIONES — SOLO STREAK
 ═══════════════════════════════════════════════════════ -->
-<h3 align="center">📊 Mis Estadísticas de GitHub</h3>
+<h3 align="center">🔥 Mi Racha de Contribuciones</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArchinimeDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=b114ff&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Estadísticas de ArchinimeDev" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchinimeDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&langs_count=8" alt="Lenguajes de ArchinimeDev" width="48%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=ArchinimeDev&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Racha de ArchinimeDev" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=ArchinimeDev&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=b114ff&fire=ff1a6b&currStreakLabel=00F0FF&sideLabels=FFFFFF&dates=FFFFFF" alt="Racha de ArchinimeDev" width="100%" style="max-width: 800px;" />
 
 </div>
 
