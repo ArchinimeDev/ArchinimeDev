@@ -1,18 +1,14 @@
 <!-- ═══════════════════════════════════════════════════════
-     BANNER PRINCIPAL PERSONAL
-═══════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/3.gif" alt="ArchinimeDev Banner" width="100%" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════
      HERO PERSONAL — "HOLA, SOY ARCHINIMEDEV"
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+  
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
-  <br>
+  
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:b114ff&height=3&width=600" alt="Divider" />
+  
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
@@ -22,7 +18,7 @@
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="ArchinimeDev" width="200" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" />
+<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/2.gif" alt="ArchinimeDev" width="220" style="border-radius: 50%; border: 3px solid #00F0FF; box-shadow: 0 0 30px #00F0FF;" />
 
 <br><br>
 
@@ -273,22 +269,14 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     STATS PERSONALES — AMBOS GIFS DEL MISMO TAMAÑO
+     STATS PERSONALES
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">📊 Mi Actividad</h3>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="100%" style="max-width: 420px;" />
-</td>
-<td width="50%" align="center" valign="middle">
-  <img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="100%" style="max-width: 420px;" />
-</td>
-</tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/estadisticas.gif" alt="Estadísticas" width="42%" />
+<img src="https://cdn.jsdelivr.net/gh/Archinime/Banners@main/lenguaje.gif" alt="Lenguajes" width="42%" />
 
 </div>
 
@@ -310,7 +298,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     DATOS CURIOSOS
+     DATOS CURIOSOS — MÁS PERSONAL
 ═══════════════════════════════════════════════════════ -->
 <h3 align="center">⚡ Datos Aleatorios Sobre Mí</h3>
 
