@@ -1,8 +1,15 @@
 <!-- ═══════════════════════════════════════════════════════
+     HEADER ONDULADO ANIMADO
+═══════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=180&section=header&text=ARCHINIME%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=La%20Nueva%20Era%20del%20Anime&descAlignY=62&descAlign=50&descSize=20" alt="Header" width="100%" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════
      VIDEO BANNER — ANCHO COMPLETO SIN ESPACIOS
 ═══════════════════════════════════════════════════════ -->
 <video 
-  src="https://github.com/user-attachments/assets/0856a567-13f3-4836-b9bd-2ac1451e8860" 
+  src="https://github.com/user-attachments/assets/260245be-f070-4033-babd-ffc7181afa71" 
   autoplay 
   muted 
   loop 
@@ -11,11 +18,11 @@
 </video>
 
 <!-- ═══════════════════════════════════════════════════════
-     HERO PERSONAL — "HOLA, SOY ARCHINIMEDEV"
+     HERO PERSONAL — TYPING ANIMADO MULTILÍNEA
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%91%8B+Hola%2C+soy+ArchinimeDev;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8E%A8+UI%2FUX+Designer;%F0%9F%8E%8C+Anime+Lover;%E2%9A%A1+Siempre+aprendiendo" alt="Typing SVG" />
 
   <br>
 
@@ -26,7 +33,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════
-     SOBRE MÍ — BLOQUE YAML ESTILO ALICEMIST
+     ABOUT ME — BLOQUE YAML ESTILO ALICEMIST
 ═══════════════════════════════════════════════════════ -->
 ## 👨‍💻 Sobre Mí
 
@@ -88,6 +95,17 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 ---
 
 <!-- ═══════════════════════════════════════════════════════
+     MARQUEE ANIMADO — TECNOLOGÍAS EN MOVIMIENTO
+═══════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=2000&pause=300&color=00F0FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+JavaScript+%E2%9A%A1+Firebase+%E2%9A%A1+Three.js+%E2%9A%A1+UI%2FUX+%E2%9A%A1+Cyberpunk+%E2%9A%A1+Anime+%E2%9A%A1+Firestore+%E2%9A%A1" alt="Marquee" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════
      MINI TARJETAS DE PERFIL
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
@@ -120,6 +138,11 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════
+     DIVISOR ANIMADO INTERMEDIO
+═══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:b114ff,100:ff1a6b&height=4&section=header" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════
      STACK TECNOLÓGICO PERSONAL
@@ -611,8 +634,8 @@ Estoy **abierto a colaboraciones**, proyectos freelance y simplemente **charlar 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════
-     ONDA FINAL
+     FOOTER ONDULADO ANIMADO
 ═══════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=150&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:b114ff,100:ff1a6b&height=150&section=footer&text=ARCHINIME&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer" width="100%" />
 </div>
