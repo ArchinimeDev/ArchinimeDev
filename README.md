@@ -175,7 +175,7 @@ No solo escribo código: **construyo mundos**. Cada línea que programo busca tr
 <sub><b>Herramientas</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=blender,threejs,cloudinary" width="100%" style="max-width:120px;" />
+<img src="https://skillicons.dev/icons?i=blender,threejs,cloudinary,mixamo" width="100%" style="max-width:120px;" />
 <br>
 <sub><b>3D & Media</b></sub>
 </td>
